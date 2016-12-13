@@ -1,0 +1,15 @@
+{
+  "name": "get-port-sync",
+  "version": "1.0.0",
+  "description": "Sync get an available port",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": "git@github.com:Cap32/get-port-sync.git",
+  "author": "Cap32 <webb.png@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "get-port-cli": "^1.0.0"
+  }
+}
