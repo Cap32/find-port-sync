@@ -1,4 +1,4 @@
-# get-port-sync
+# find-port-sync
 
 > Sync get an available port
 
@@ -6,16 +6,16 @@
 ## Install
 
 ```
-$ npm install get-port-sync
+$ npm install find-port-sync
 ```
 
 
 ## Usage
 
 ```js
-const getPortSync = require('get-port-sync');
+const findPortSync = require('find-port-sync');
 
-getPortSync(); //=> 51402
+findPortSync(); //=> 51402
 ```
 
 
