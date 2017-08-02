@@ -10,6 +10,6 @@
   "author": "Cap32 <webb.png@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "get-port-cli": "^1.0.0"
+    "get-port-cli": "^1.1.0"
   }
 }

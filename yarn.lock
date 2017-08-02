@@ -44,18 +44,16 @@ find-up@^1.0.0:
     path-exists "^2.0.0"
     pinkie-promise "^2.0.0"
 
-get-port-cli@^1.0.0:
-  version "1.0.0"
-  resolved "http://registry.npm.taobao.org/get-port-cli/download/get-port-cli-1.0.0.tgz#526d60e8759d3eca2cdd15682cc1db6cd1310b71"
+get-port-cli@^1.1.0:
+  version "1.1.0"
+  resolved "http://registry.npm.taobao.org/get-port-cli/download/get-port-cli-1.1.0.tgz#f334b136995eb52e5a5d5c10e3c6e59e18a946ef"
   dependencies:
-    get-port "^2.0.0"
+    get-port "^3.0.0"
     meow "^3.4.2"
 
-get-port@^2.0.0:
-  version "2.1.0"
-  resolved "http://registry.npm.taobao.org/get-port/download/get-port-2.1.0.tgz#8783f9dcebd1eea495a334e1a6a251e78887ab1a"
-  dependencies:
-    pinkie-promise "^2.0.0"
+get-port@^3.0.0:
+  version "3.1.0"
+  resolved "http://registry.npm.taobao.org/get-port/download/get-port-3.1.0.tgz#ef01b18a84ca6486970ff99e54446141a73ffd3e"
 
 get-stdin@^4.0.1:
   version "4.0.1"
