@@ -6,6 +6,25 @@
   "scripts": {
     "test": "node test"
   },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "port",
+    "find",
+    "finder",
+    "portfinder",
+    "free",
+    "available",
+    "connection",
+    "connect",
+    "open",
+    "net",
+    "tcp",
+    "scan",
+    "sync",
+    "rand",
+    "random"
+  ],
   "repository": "git@github.com:Cap32/find-port-sync.git",
   "author": "Cap32 <webb.png@gmail.com>",
   "license": "MIT",
